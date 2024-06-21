@@ -51,7 +51,6 @@ Una lista de las tecnologías que he utilizado en mis proyectos:
 * **Seguridad informática:** Me atrae el estudio de la ciberseguridad, las vulnerabilidades y cómo proteger sistemas y redes.
 
 ## Contacto 📱
-Puedes contactarme a través de mi correo institucional:
 * **Correo institucional:** jjorrala@espol.edu.ec
 * **LinkedIn:** www.linkedin.com/in/joel-orrala-5ab007222
 * **GitHub:** https://github.com/JoelOrrala
