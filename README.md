@@ -11,7 +11,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * [Contacto](#contacto)
 
 ## Información personal 👤
-* **Nombre:** Joel Josue Orrala Yugla
+* **Nombre:** Joel Orrala Yugla
 * **Ocupación:** Estudiante
 
 ## Educación 🎓
@@ -46,7 +46,6 @@ Una lista de las tecnologías que he utilizado en mis proyectos:
 * **Herramientas y plataformas:** Git, Visual Studio Code
 
 ## Intereses 🤔
-Una lista de mis intereses:
 * **Desarrollo de videojuegos:** Me interesa la creación de videojuegos utilizando motores como Unity y Unreal Engine, explorando tanto el diseño como la programación de los mismos.
 * **Inteligencia artificial y machine learning:** Me interesa el desarrollo de modelos de aprendizaje automático y su aplicación en diferentes áreas como el reconocimiento de imágenes y el procesamiento del lenguaje natural.
 * **Seguridad informática:** Me atrae el estudio de la ciberseguridad, las vulnerabilidades y cómo proteger sistemas y redes.
