@@ -23,13 +23,17 @@ Mi formación académica incluye:
 ## Proyectos
 Aquí puedes encontrar una lista de mis proyectos. Haz clic en el nombre del proyecto para ver el repositorio correspondiente.
 * [Compra de tickets aéreos](https://github.com/JoelOrrala/Proyecto1P_Luna_Orrala_Sambonino_G9.git)
-  * Breve descripción del Proyecto 1.
-  * Tecnologías: [Lista de tecnologías utilizadas]
-  * Estado: [En progreso/Completado]
-* [Nombre del Proyecto 2](URL_DEL_REPOSITORIO_2)
-  * Breve descripción del Proyecto 2.
-  * Tecnologías: [Lista de tecnologías utilizadas]
-  * Estado: [En progreso/Completado]
+  * Simulación de compra y venta de tickets aéreos en la línea de comandos usando el lenguaje Java.
+  * **Tecnologías:** Netbeans 
+  * **Estado:** Completado
+* [Programa para local de comida rápida](https://github.com/JoelOrrala/POO4_PROY2P_Luna_Orrala_Sambonino.git)
+  * Simulación de compra de comida rápida y pedido a domicilio a través de un programa en JavaFX.
+  * **Tecnologías:** Netbeans 
+  * **Estado:** Completado
+* [Seguimiento de actividades](https://github.com/Jos-pi23/Seguimientodeactividadesbd.git)
+  * Programa para el seguimiento de actividades de una Institución usando una base datos.
+  * **Tecnologías:** MySQL
+  * **Estado:** Completado
 
 ## Tecnologías
 Una lista de las tecnologías que he utilizado en mis proyectos:
