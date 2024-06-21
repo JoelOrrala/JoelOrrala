@@ -46,7 +46,7 @@ Una lista de mis intereses:
 ## Contacto
 Puedes contactarme a través de mi correo institucional:
 * **Correo institucional:** [jjorrala@espol.edu.ec]
-* **LinkedIn:** [www.linkedin.com/in/joel-orrala-5ab007222]
+* **LinkedIn:** www.linkedin.com/in/joel-orrala-5ab007222
 * **GitHub:** [https://github.com/JoelOrrala]
 
 
