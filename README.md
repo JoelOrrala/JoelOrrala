@@ -22,7 +22,7 @@ Mi formación académica incluye:
 
 ## Proyectos
 Aquí puedes encontrar una lista de mis proyectos. Haz clic en el nombre del proyecto para ver el repositorio correspondiente.
-* [Compra de tickets aéreos]([https://github.com/JoelOrrala/Proyecto1P_Luna_Orrala_Sambonino_G9.git])
+* [Compra de tickets aéreos](https://github.com/JoelOrrala/Proyecto1P_Luna_Orrala_Sambonino_G9.git)
   * Breve descripción del Proyecto 1.
   * Tecnologías: [Lista de tecnologías utilizadas]
   * Estado: [En progreso/Completado]
